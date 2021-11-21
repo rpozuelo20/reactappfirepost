@@ -96,7 +96,7 @@ export default class Home extends Component {
                 React hot toast
               </a>
               <a
-                href="https://github.com/rpozuelo20/ReactApps.git"
+                href="https://github.com/rpozuelo20/reactappfirepost"
                 target="_blank"
                 className="btn btn-secondary my-2 m-1"
               >
